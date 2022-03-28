@@ -1,0 +1,9 @@
+
+body {
+        background-color:powderblue;
+    }
+    #bordering { 
+        border: 10px solid teal;
+        padding: 15px;
+        width: 500px;
+      }
